@@ -8,7 +8,7 @@ public class BEE1060 {
 
         Scanner leia = new Scanner(System.in);
 
-        float numero, media;
+        float numero;
         int positivos = 0;
 
         for (int i = 0; i < 6; i++) {
